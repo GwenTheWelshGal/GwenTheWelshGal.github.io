@@ -4,6 +4,6 @@ title: Home
 permalink: /
 ---
 
-### Indtoduction
+### Introduction
 
-Hi, I'm Gwen. This is my website, where things will be posted in time.
+Hi, I'm Gwen.
