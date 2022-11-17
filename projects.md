@@ -8,7 +8,7 @@ Personal Projects of mine will be added here.
 
 ---
 
-## [October 2022 • Lesbian Wednesday Addams Twitter Bot](https://gwenthewelshgal.github.io/projects/Lesbian-Wednesday-Addams-Twitter-Bot)
+## [October 2022 • Lesbian Wednesday Addams Twitter Bot]({{ site.baseurl }}/projects/Lesbian-Wednesday-Addams-Twitter-Bot/) {#Oct22-WednesdayAddamsTwitterBot}
 
 > A couple of months ago, I started looking into whether I could create a Twitter bot. I had spent some time on it, eventually stumbling across a few videos on the topic. Given that I had a couple of Raspberry Pi's lying around, I decided to put one of them to use. From there, I found a tutorial bosted on GitHub detailing how ot create one, and I followed it. Fortunately, the account that i wanted ot choose for it had been created a fe months ago by yours truly.
 >
