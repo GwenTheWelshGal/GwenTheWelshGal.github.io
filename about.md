@@ -19,7 +19,7 @@ I enjoy listening to music as well. My musical interests are all over the place,
 
 ### Am I learning any languages?
 
-I'm also learning Welsh and French on Duolingo, partially because being monolingual sounds a bit boring, partially because there was [some really good show on Netflix](https://www.google.com/search?q=el+ministerio+del+tiempo) that disappeared a while back and the only way for me to watch it is to learn the language it's in to an advanced level (amazed why I'm not doing said language on Duolingo for some reason), and partially because the memes ascribe John Wick-like abilities to that green owl and I very much like to sleep with both my eyes closed.
+I'm also learning Welsh and French on Duolingo, partially because being monolingual sounds a bit boring, partially because there was <a href="https://www.google.com/search?q=el+ministerio+del+tiempo" target="_blank">some really good show on Netflix</a> that disappeared a while back and the only way for me to watch it is to learn the language it's in to an advanced level (amazed why I'm not doing said language on Duolingo for some reason), and partially because the memes ascribe John Wick-like abilities to that green owl and I very much like to sleep with both my eyes closed.
 
 ### What about programming languages?
 
