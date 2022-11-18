@@ -24,3 +24,7 @@ I'm also learning Welsh and French on Duolingo, partially because being monoling
 ### What about programming languages?
 
 I'm also learning Python, because I can. It's the language I coded the Twitter bot in. Most of my projects may end up being in Python.
+
+### Anything else I should know?
+
+- My [GitHub stats]({{ site.baseurl }}/about/github-stats/), if you want.
