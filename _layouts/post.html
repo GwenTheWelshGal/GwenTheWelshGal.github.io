@@ -9,6 +9,23 @@ layout: default
     {{ content }}
   </div>
 
+  <!--
+    Uses common ISO 8601 Datetime patterns.
+
+    To display thee calendar date:    %Y/%m/%d    2063-04-04
+    Calendar date, specific month:    %Y-%m       2063-04
+    Calendar date, specific year:     %Y          2063
+    Calendar date, specific century   %C          20
+    ...
+    ...
+    ...and so on.
+
+    Link is here. Thank me later
+    https://jekyll.one/pages/public/manuals/jekyll/user_guide/date_formats/
+
+  -->
+
+
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y %H:%M" }}
   </div>
