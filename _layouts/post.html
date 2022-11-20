@@ -5,11 +5,19 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
 
-  <div class="entry">
-    {{ content }}
+  <div class="post-categories">
+    {% if post %}
+      {% assign categories = post.categories %}
+    {% else %}
+      {% assign categories = page.categories %}
+    {% endif %}
+    {% for category in categories %}
+    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
   </div>
 
-  <!--
+    <!--
     Uses common ISO 8601 Datetime patterns.
 
     To display thee calendar date:    %Y/%m/%d    2063-04-04
@@ -25,9 +33,12 @@ layout: default
 
   -->
 
-
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y %H:%M" }}
+  </div>
+
+  <div class="entry">
+    {{ content }}
   </div>
 
   {% include disqus.html %}
