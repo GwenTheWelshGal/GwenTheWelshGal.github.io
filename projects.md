@@ -6,6 +6,8 @@ permalink: /projects/
 
 Personal Projects of mine will be added here.
 
+I also have a [to-do]({{ site.baseurl }}/projects/to-do-list/) list and an [idea list]({{ site.baseurl}}/projects/idea-list/), which I am using to keep track of things and so I can have somewhere to put ideas that come to mind.
+
 ---
 
 ## [October 2022 • Lesbian Wednesday Addams Twitter Bot]({{ site.baseurl }}/projects/Lesbian-Wednesday-Addams-Twitter-Bot/) {#Oct22-WednesdayAddamsTwitterBot}
