@@ -4,6 +4,10 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
+  
+  <div class="entry">
+    {{ content }}
+  </div>
 
   <div class="post-categories">
     {% if post %}
@@ -35,10 +39,6 @@ layout: default
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y %H:%M" }}
-  </div>
-
-  <div class="entry">
-    {{ content }}
   </div>
 
   {% include disqus.html %}
