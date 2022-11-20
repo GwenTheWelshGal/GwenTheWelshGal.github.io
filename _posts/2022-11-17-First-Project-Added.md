@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lesbian Wednesday Addams Twitter Bot has been added.
+date: 2022-11-17 18:00 +0000
 ---
 
 I have added that Twitter bot that I was working on last month. You can read about it in a little bit of detail on the [Projects]({{ site.baseurl }}/projects/) page.

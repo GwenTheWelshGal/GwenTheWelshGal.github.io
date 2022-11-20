@@ -49,6 +49,9 @@ url: https://gwenthewelshgal.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# set timezone
+timezone: Europe/London ## Makes sure it runs on British time.
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
