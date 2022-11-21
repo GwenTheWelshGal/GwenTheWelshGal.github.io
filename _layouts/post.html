@@ -38,7 +38,10 @@ layout: default
   -->
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y %H:%M" }}
+    Published on {{ page.date | date: "%A, %B %e, %Y at %H:%M" }}
+  </div>
+  <div class="updated">
+    <i style="color:#666">Last updated on {{ page.updated | date: "%A, %B %e, %Y at %H:%M" }}</i>
   </div>
 
   {% include disqus.html %}
