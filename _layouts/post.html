@@ -4,7 +4,10 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-  
+ <!--
+    Refer to this link for ISO 8601 datetime patterns:
+    https://jekyll.one/pages/public/manuals/jekyll/user_guide/date_formats/
+  --> 
  <div class="date">
     Published on {{ page.date | date: "%A, %B %e, %Y at %H:%M" }}
   </div>
@@ -24,21 +27,7 @@ layout: default
     {% endfor %}
   </div>
 
-    <!--
-    Uses common ISO 8601 Datetime patterns.
-
-    To display thee calendar date:    %Y/%m/%d    2063-04-04
-    Calendar date, specific month:    %Y-%m       2063-04
-    Calendar date, specific year:     %Y          2063
-    Calendar date, specific century   %C          20
-    ...
-    ...
-    ...and so on.
-
-    Link is here. Thank me later
-    https://jekyll.one/pages/public/manuals/jekyll/user_guide/date_formats/
-
-  -->
+    
  <div class="entry">
     {{ content }}
   </div>

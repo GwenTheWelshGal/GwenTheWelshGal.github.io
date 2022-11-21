@@ -2,16 +2,20 @@
 layout: post
 title: Site Update Log
 date: 2022-11-16 11:30 +0000
-updated: 2022-11-21 19:27 +0000
+updated: 2022-11-21 22:28 +0000
 categories: Website
 excerpt_separator: <!--more-->
-updatenumber: 3
+updatenumber: 4
 ---
 
 This blog post will serve as a log for when the site has been updated. This log has been updated <span class="updatenumber">{{ page.updatenumber }}</span> times as of <span class="updated">{{ page.updated | date: "%A, %B %e, %Y at %H:%M" }}</span>.
 <!--more-->
 To skip to the bottom of the page, [click here](#bottom).
 <hr>
+
+#### 2022-11-21 22:28 • Slight Alterations to Blog Layout
+
+I've moved the blog post publishing/updated times to the top along with the categories so they can still be seen straight away, even on longer posts.
 
 #### 2022-11-21 19:27 • Site-Related Blog Posts Consolidated
 
