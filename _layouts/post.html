@@ -5,8 +5,11 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
   
-  <div class="entry">
-    {{ content }}
+ <div class="date">
+    Published on {{ page.date | date: "%A, %B %e, %Y at %H:%M" }}
+  </div>
+  <div class="updated">
+    <i style="color:#666">Last updated on {{ page.updated | date: "%A, %B %e, %Y at %H:%M" }}</i>
   </div>
 
   <div class="post-categories">
@@ -36,13 +39,10 @@ layout: default
     https://jekyll.one/pages/public/manuals/jekyll/user_guide/date_formats/
 
   -->
-
-  <div class="date">
-    Published on {{ page.date | date: "%A, %B %e, %Y at %H:%M" }}
+ <div class="entry">
+    {{ content }}
   </div>
-  <div class="updated">
-    <i style="color:#666">Last updated on {{ page.updated | date: "%A, %B %e, %Y at %H:%M" }}</i>
-  </div>
+  
 
   {% include disqus.html %}
 </article>
