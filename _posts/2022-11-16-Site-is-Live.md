@@ -25,4 +25,4 @@ Minor updates. The time should now be visible *and* accurate on blog posts.
 
 After a frustrating attempt at getting the site working yesterday, leading me to give up at about 1 in the morning out of pure, but rather quiet, frustration, I approached things from a different way.
 
-It works now. At fucking last<a href="#bottom">.</a>
+It works now. At fucking last<a id="#bottom">.</a>
