@@ -10,7 +10,7 @@ updatenumber: 3
 This blog post will serve as a log for when the site has been updated. This log has been updated <span class="updatenumber">{{ page.updatenumber }}</span> times as of <span class="updated">{{ page.updated | date: "%A, %B %e, %Y at %H:%M" }}</span>.
 <!--more-->
 To skip to the bottom of the page, [click here](#bottom).
----
+<hr>
 
 #### 2022-11-21 19:27 • Site-Related Blog Posts Consolidated
 
