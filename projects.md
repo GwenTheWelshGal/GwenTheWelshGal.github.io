@@ -13,7 +13,7 @@ I also have a [to-do]({{ site.baseurl }}/projects/to-do-list/) list and an [idea
 
 ## [November 2022 • Random Generator]({{ site.baseurl }}/projects/Random-Generator/) {#Nov22-RandomGenerator}
 
-Having completed a random generator for an office sweepstakes sometime in November 2022 shortly before the World Cup commenced in Qatar, I thought I'd have a go at making a variation of that random generator that possesses a HTML frontend and can be accessed by anyone. The idea is for someone to put a number of inputs into one text box and the exact same number of imputs into the second box. They will then choose something from a dropdown menu that is intended to provide context to the output before then clicking **Start**. The inputs will be shuffled contuously and the chosen items removed from their respective arrays until said arrays are empty.
+Having completed a random generator for an office sweepstakes sometime in November 2022 shortly before the World Cup commenced in Qatar, I thought I'd have a go at making a variation of that random generator that possesses a HTML frontend and can be accessed by anyone. The idea is for someone to put a number of inputs into one text box and the exact same number of inputs into the second box. They will then choose something from a dropdown menu that is intended to provide context to the output before then clicking **Start**. The inputs will be shuffled continuously and the chosen items removed from their respective arrays until said arrays are empty.
 
 ## [October 2022 • Lesbian Wednesday Addams Twitter Bot]({{ site.baseurl }}/projects/Lesbian-Wednesday-Addams-Twitter-Bot/) {#Oct22-WednesdayAddamsTwitterBot}
 
