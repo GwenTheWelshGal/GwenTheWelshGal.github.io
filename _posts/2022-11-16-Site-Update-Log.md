@@ -2,16 +2,20 @@
 layout: post
 title: Site Update Log
 date: 2022-11-16 11:30 +0000
-updated: 2022-11-21 22:28 +0000
+updated: 2022-11-23 13:38 +0000
 categories: Website
 excerpt_separator: <!--more-->
-updatenumber: 4
+updatenumber: 5
 ---
 
 This blog post will serve as a log for when the site has been updated. This log has been updated <span class="updatenumber">{{ page.updatenumber }}</span> times as of <span class="updated">{{ page.updated | date: "%A, %B %e, %Y at %H:%M" }}</span>.
 <!--more-->
 To skip to the bottom of the page, [click here](#bottom).
 <hr>
+
+#### 2022-11-23 13:38 • Cosmetic Changes to Site
+
+Less than 20 minutes ago, I made some cosmetic edits to my GitHub site that is more work-focused by changing a value in the <em>.container</em> tag within the styles.scss file. After committing the changes and browsing the site after the cosmetic changes, I liked how things looked on the site. They looked better, and they looked less like all the content had been squeezed onto the page like toothpaste in a tube. No more does the site have bits on the side that are completely devoid of contewnt thanks to the styling of the theme that I put on thie site this time last week. Those empty bits have been significantly reduced in size by 115px on each side. The width of the content has been changed from 740px to 1000px.
 
 #### 2022-11-21 22:28 • Slight Alterations to Blog Layout
 
