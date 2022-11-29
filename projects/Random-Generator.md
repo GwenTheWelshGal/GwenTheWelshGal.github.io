@@ -10,8 +10,4 @@ A thought then entered my mind about a random generator that could accomodate in
 
 It is far from complete at the moment, but I have at least made a starting point. You can view it below.
 
-<div class="project-iframe">
-    <iframe src="https://gwenthewelshgal.github.io/Random-Generator/index.html" height="750" width="900">
-</div>
-
-
+<iframe src="https://gwenthewelshgal.github.io/Random-Generator/index.html" height="750" width="1000">
