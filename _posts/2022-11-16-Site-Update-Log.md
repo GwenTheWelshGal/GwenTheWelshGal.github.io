@@ -5,13 +5,17 @@ date: 2022-11-16 11:30 +0000
 updated: 2022-11-23 13:38 +0000
 categories: Website
 excerpt_separator: <!--more-->
-updatenumber: 5
+updatenumber: 6
 ---
 
 This blog post will serve as a log for when the site has been updated. This log has been updated <span class="updatenumber">{{ page.updatenumber }}</span> times as of <span class="updated">{{ page.updated | date: "%A, %B %e, %Y at %H:%M" }}</span>.
 <!--more-->
 To skip to the bottom of the page, [click here](#bottom).
 <hr>
+
+#### 2024-06-23 15:34 • Coming back and actually doing something with this site
+
+Embarrassingly, I almost forgot that I *had* a GitHub site in the first place. Still, I've remembered now. Let's see what I can do with it.
 
 #### 2022-11-23 13:38 • Cosmetic Changes to Site
 
